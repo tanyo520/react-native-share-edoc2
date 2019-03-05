@@ -1,0 +1,18 @@
+{
+  "name": "react-native-share-edoc2",
+  "description": "Social Share, Sending Simple Data to Other Apps",
+  "version": "1.0.27",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanyo520/react-native-share-edoc2.git"
+  },
+
+  "keywords": ["react-component", "react-native", "android", "ios", "windows"],
+  "nativePackage": true,
+  "author": {
+    "name": "yong tian",
+    "email": "12338947@qq.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
