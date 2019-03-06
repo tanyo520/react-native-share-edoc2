@@ -1,10 +1,10 @@
 [
     {
-        "merged": "F:\\zcy_workSpace\\edoc2\\app\\edoc2\\node_modules\\react-native-share\\android\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "merged": "F:\\zcy_workSpace\\edoc2\\app\\edoc2\\node_modules\\react-native-share-edoc2\\android\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\59a6681f10f098682264ccf59f60edfa\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "F:\\zcy_workSpace\\edoc2\\app\\edoc2\\node_modules\\react-native-share\\android\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "merged": "F:\\zcy_workSpace\\edoc2\\app\\edoc2\\node_modules\\react-native-share-edoc2\\android\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.0.0.aar\\59a6681f10f098682264ccf59f60edfa\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

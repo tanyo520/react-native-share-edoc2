@@ -6,13 +6,22 @@
     "type": "git",
     "url": "git+https://github.com/tanyo520/react-native-share-edoc2.git"
   },
-
-  "keywords": ["react-component", "react-native", "android", "ios", "windows"],
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "windows"
+  ],
   "nativePackage": true,
-  "author": {
-    "name": "yong tian",
-    "email": "12338947@qq.com"
-  },
+  "author": "yong tian <12338947@qq.com>",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "bugs": {
+    "url": "https://github.com/tanyo520/react-native-share-edoc2/issues"
+  },
+  "homepage": "https://github.com/tanyo520/react-native-share-edoc2#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
